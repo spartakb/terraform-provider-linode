@@ -3,7 +3,7 @@ package linode
 import (
 	"fmt"
 
-	"github.com/btobolaski/linodego"
+	"github.com/spartakb/linodego"
 	"github.com/hashicorp/terraform/helper/schema"
 	"github.com/hashicorp/terraform/terraform"
 )
