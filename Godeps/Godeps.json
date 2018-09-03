@@ -11,8 +11,8 @@
 			"Rev": "0f2a4955b11372eec5a4b95d907eaf8379b835d0"
 		},
 		{
-			"ImportPath": "github.com/btobolaski/linodego",
-			"Rev": "e42b03e28c7a3905c1bbfeb2041fcdb64f909fa0"
+			"ImportPath": "github.com/spartakb/linodego",
+			"Rev": "4db84d830953c1cd4eaa22c6889f082a12c6f3a2"
 		},
 		{
 			"ImportPath": "github.com/hashicorp/errwrap",
